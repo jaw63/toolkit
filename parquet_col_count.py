@@ -1,7 +1,11 @@
 import pyarrow.parquet as pq
 
+# Get filename
+filename = input("parquet filename? ")
+filename  = "{}{}".format(filename, ".parquet")
+
 # Open the Parquet file
-parquet_file = pq.ParquetFile('filname.parquet')
+parquet_file = pq.ParquetFile(filename)
 
 # Get the number of rows and columns
 num_rows = parquet_file.metadata.num_rows
