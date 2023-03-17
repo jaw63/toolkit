@@ -1,4 +1,4 @@
-# Getting started with Python
+# Python Toolkit
 
 ## Goal
 The intention of this toolkit is to supply you with sample code and basic functions for processing data using Python.
