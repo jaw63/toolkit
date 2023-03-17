@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-# data to display on plots
- 
+
+# data to display on plots 
 x = [3, 1, 3]
 y = [3, 2, 1]
 z = [1, 3, 1]
