@@ -1,13 +1,10 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-import os  
 
-# change to correct directory
-absolute_path = 'Queries'
-os.chdir(absolute_path)
+filename = 'file.csv'
 
 # get data 
-df = pd.read_csv('right3name.csv') 
+df = pd.read_csv(filename) 
 
 x=df['digit']
 y=df['count']
