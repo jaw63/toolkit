@@ -11,7 +11,7 @@ Once you have VS Code installed, follow these steps:
 * In the "Extensions" section of VS Code, find and install the Python extension from Microsoft (Pylance should also automatically install alongside this extension).
 * Ensure that VS Code is using the appropriate version of Python
    * [add detail].
-* Set VS Code to run files in the files's directory rather than the current open file.
+* Set VS Code to run files in the file's own directory rather than the directory of the current open file.
    * Open File > Preferences > Settings (shortcut: `CTRL ,`) and search `executeinfiledir`
    * Ensure the box is checked.
 
