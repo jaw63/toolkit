@@ -1,7 +1,7 @@
 # Python Toolkit
 
 ## Goal
-This toolkit is intended to provide you with easily-modifiable sample code and basic functions for processing data using Python. Most of these files will have an intentionally inefficient structure 
+This toolkit is intended to provide you with easily-modifiable sample code and basic functions for processing data using Python. These files are intentionally structured to be easy for newer users to customize.
 
 ## Getting started
 ### Integrated development environment (IDE) configuration
