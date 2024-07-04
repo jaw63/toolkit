@@ -21,7 +21,7 @@ Depending on what you want to do, you may need to install additional code librar
 You will know if you are missing a necessary library because you will see an error like "ModuleNotFoundError: No module named 'pyarrow'". 
 
 #### pip vs conda
-[add detail]
+Conda is more secure but pip is easier to use and appears to be more commonly referenced. For professional use cases, conda is better. For personal projects, pip should be fine.
 
 ## Contents
 1. Parquet file processing
