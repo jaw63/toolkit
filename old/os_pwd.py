@@ -3,7 +3,7 @@ import os
 cwd = os.getcwd()
 print('Current Working Directory is: ', cwd)
 
-absolute_path = 'Queries'
-os.chdir(absolute_path)
+#absolute_path = 'Queries'
+#os.chdir(absolute_path)
 
-print('New working directory is: ', os.getcwd()) 
+#print('New working directory is: ', os.getcwd()) 
