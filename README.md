@@ -30,6 +30,4 @@ Conda is more secure but pip is easier to use and appears to be more commonly re
 4. Querying Dremio via API 
 
 ## Notes
-Many of these files began as responses to prompts given to chatGPT in February and March 2023. I am deeply grateful to OpenAI for developing this tool.
-
 The LinkedIn Learning course "Learning Python" by Joe Marini was instrumental in helping me understand how to navigate basic Python features and demonstrating tips for working effectively in VS Code. His course files are also available on Github here: https://github.com/LinkedInLearning/learning-python-2896241
